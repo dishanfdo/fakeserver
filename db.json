@@ -10,5 +10,22 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "media": [
+    {
+      "id": 1,
+      "url": "http://www.example.com/media1",
+      "duration": 100
+    },
+    {
+      "id": 2,
+      "url": "http://www.example.com/media2",
+      "duration": 150
+    },
+    {
+      "id": 3,
+      "url": "http://www.example.com/media3",
+      "duration": 300
+    },
+  ]  
 }
