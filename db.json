@@ -29,6 +29,11 @@
       "id": 3,
       "url": "http://www.example.com/media3",
       "duration": 300
-    }
-  ]  
+    },
+  ],
+  "login": {
+      "name": "Dishan",
+      "email": "dishanddd@gmail.com",
+      "token": "token"
+   }
 }
