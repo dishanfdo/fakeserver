@@ -32,8 +32,11 @@
     }
   ],
   "login": {
+    "status": "success",
+    "response": {
       "name": "Dishan",
       "email": "dishanddd@gmail.com",
       "token": "token"
-   }
+    }
+  }
 }
